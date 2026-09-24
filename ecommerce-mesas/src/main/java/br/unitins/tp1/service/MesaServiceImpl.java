@@ -30,6 +30,7 @@ public class MesaServiceImpl implements MesaService {
         }
         mesaBanco.setMaterial(mesa.getMaterial());
         mesaBanco.setModelo(mesa.getModelo());
+        mesaBanco.setFornecedor(mesa.getFornecedor());
     }
 
     @Override

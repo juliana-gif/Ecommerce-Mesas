@@ -1,6 +1,12 @@
-C:\Users\ze buceta\Documents\academia-main\academia-main\src\main\java\br\unitins\tp1\model\DefaultEntity.java
-C:\Users\ze buceta\Documents\academia-main\academia-main\src\main\java\br\unitins\tp1\model\Estado.java
-C:\Users\ze buceta\Documents\academia-main\academia-main\src\main\java\br\unitins\tp1\repository\EstadoRepository.java
-C:\Users\ze buceta\Documents\academia-main\academia-main\src\main\java\br\unitins\tp1\resource\EstadoResource.java
-C:\Users\ze buceta\Documents\academia-main\academia-main\src\main\java\br\unitins\tp1\service\EstadoService.java
-C:\Users\ze buceta\Documents\academia-main\academia-main\src\main\java\br\unitins\tp1\service\EstadoServiceImpl.java
+C:\Users\ze buceta\Documents\Jujuzinha du GRAU\ecommerce-mesas\src\main\java\br\unitins\tp1\dto\MesaDTO.java
+C:\Users\ze buceta\Documents\Jujuzinha du GRAU\ecommerce-mesas\src\main\java\br\unitins\tp1\dto\MesaResponseDTO.java
+C:\Users\ze buceta\Documents\Jujuzinha du GRAU\ecommerce-mesas\src\main\java\br\unitins\tp1\model\DefaultEntity.java
+C:\Users\ze buceta\Documents\Jujuzinha du GRAU\ecommerce-mesas\src\main\java\br\unitins\tp1\model\Fornecedor.java
+C:\Users\ze buceta\Documents\Jujuzinha du GRAU\ecommerce-mesas\src\main\java\br\unitins\tp1\model\Mesa.java
+C:\Users\ze buceta\Documents\Jujuzinha du GRAU\ecommerce-mesas\src\main\java\br\unitins\tp1\repository\FornecedorRepository.java
+C:\Users\ze buceta\Documents\Jujuzinha du GRAU\ecommerce-mesas\src\main\java\br\unitins\tp1\repository\MesaRepository.java
+C:\Users\ze buceta\Documents\Jujuzinha du GRAU\ecommerce-mesas\src\main\java\br\unitins\tp1\resource\MesaResource.java
+C:\Users\ze buceta\Documents\Jujuzinha du GRAU\ecommerce-mesas\src\main\java\br\unitins\tp1\service\FornecedorService.java
+C:\Users\ze buceta\Documents\Jujuzinha du GRAU\ecommerce-mesas\src\main\java\br\unitins\tp1\service\FornecedorServiceImpl.java
+C:\Users\ze buceta\Documents\Jujuzinha du GRAU\ecommerce-mesas\src\main\java\br\unitins\tp1\service\MesaService.java
+C:\Users\ze buceta\Documents\Jujuzinha du GRAU\ecommerce-mesas\src\main\java\br\unitins\tp1\service\MesaServiceImpl.java
